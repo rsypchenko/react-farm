@@ -1,0 +1,1 @@
+export { PlansList as default } from './PlansList';
